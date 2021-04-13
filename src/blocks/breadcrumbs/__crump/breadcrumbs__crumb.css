@@ -1,0 +1,7 @@
+.breadcrumbs__crumb {
+  padding-right: 5px;
+}
+
+.breadcrumbs__crumb:last-child {
+  padding-right: 0;
+}
