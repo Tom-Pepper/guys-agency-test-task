@@ -1,0 +1,6 @@
+.header__navbar {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  padding: 20px 94px 20px;
+}

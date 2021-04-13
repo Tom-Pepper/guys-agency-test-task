@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url(../fonts/montserrat-bold.ttf);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url(../fonts/montserrat-regular.ttf);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url(../fonts/montserrat-medium.ttf);
+  font-weight: 500;
+}
