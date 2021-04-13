@@ -15,5 +15,16 @@
 @import url(../blocks/header/__catalog-button/header__catalog-button.css);
 @import url(../blocks/header/__catalog-button-burger/header__catalog-button-burger.css);
 @import url(../blocks/header/__button-text/header__button-text.css);
+@import url(../blocks/header/__catalog-search/header__catalog-search.css);
+@import url(../blocks/header/__catalog-search-icon/header__catalog-search-icon.css);
+@import url(../blocks/header/__catalog-search-profile/header__catalog-search-profile.css);
+@import url(../blocks/header/__catalog-search-cart/header__catalog-search-cart.css);
+@import url(../blocks/header/__input-wrapper/header__input-wrapper.css);
+@import url(../blocks/header/__account-wrapper/header__account-wrapper.css);
+
+
+
+
+
 
 

@@ -1,0 +1,15 @@
+.header__catalog-search-icon {
+  position: absolute;
+  background-image: url("../../../images/search.svg");
+  background-repeat: no-repeat;
+  border: none;
+  background-color: transparent;
+
+  padding: 0;
+  width: 17px;
+  height: 16px;
+  top: 12px;
+  right: 17px;
+  cursor: pointer;
+  opacity: 0.7;
+}
