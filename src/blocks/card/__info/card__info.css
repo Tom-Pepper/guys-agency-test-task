@@ -1,0 +1,6 @@
+.card__info {
+  padding: 40px 0 0 107px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 139px;
+}

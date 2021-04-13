@@ -1,0 +1,10 @@
+.card__info-old-price {
+  margin: 0;
+  padding: 0;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #99A6B9;
+  text-decoration: line-through;
+  text-align: end;
+}

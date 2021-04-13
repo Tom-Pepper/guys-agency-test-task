@@ -22,7 +22,7 @@
       </nav>
       <div class="header__main-content">
         <img src="./images/logo.svg" alt="Логотип Wrump" class="header__logo">
-        <button class="header__catalog-button">
+        <button class="button header__catalog-button">
           <img src="./images/fat-burger.svg" alt="Кнопка меню" class="header__catalog-button-burger">
           <p class="header__button-text">Каталог</p>
         </button>
@@ -37,17 +37,44 @@
         </div>
       </div>
     </header>
-     <section class="breadcrumbs">
+    <section class="breadcrumbs">
        <ul class="breadcrumbs__list">
          <li class="breadcrumbs__crumb"><a href="#" class="breadcrumbs__crumb header__link">Каталог</a><span>/</span></li>
          <li class="breadcrumbs__crumb"><a href="#" class="breadcrumbs__crumb header__link">Запчасти</a><span>/</span></li>
          <li class="breadcrumbs__crumb"><a href="#" class="breadcrumbs__crumb header__link">Двигатель</a><span>/</span></li>
          <li class="breadcrumbs__crumb"><a href="#" class="breadcrumbs__crumb header__link">Винты гребные</a><span>/</span></li>
-         <li class="breadcrumbs__crumb">
-           <a href="#" class="breadcrumbs__crumb breadcrumbs__crumb_current header__link">Гребной винт 3x7.3x5, Solas, 4011-073-05S</a>
-         </li>
+         <li class="breadcrumbs__crumb breadcrumbs__crumb_current header__link">Гребной винт 3x7.3x5, Solas, 4011-073-05S</li>
        </ul>
      </section>
+    <section class="cards">
+      <figure class="card">
+        <h1 class="card__title">Гребной винт 3x7.3x5, Solas, 4011-073-05S</h1>
+        <p class="card__subtitle">Артикул: 401107305S</p>
+        <div class="card__info">
+          <img src="./images/merch.png" alt="Гребной винт на лодку" class="card__image">
+          <div class="card__info-caption">
+            <p class="card__info-caption-title">Модель: 3 лопасти</p>
+            <button class="button card__info-caption-button card__info-caption-button_is-active">3 лопасти</button>
+            <button class="button card__info-caption-button">4 лопасти</button>
+            <ul class="card__info-caption-about">
+              <li class="card__info-caption-about-characteristics">ОЕМ</li>
+              <li class="card__info-caption-about-value">3411-135-13</li>
+              <li class="card__info-caption-about-characteristics">Производитель&nbsp;техники</li>
+              <li class="card__info-caption-about-value">Yamaha</li>
+              <li class="card__info-caption-about-characteristics">Бренд</li>
+              <li class="card__info-caption-about-value">Skipper</li>
+              <li class="card__info-caption-about-characteristics">Материал</li>
+              <li class="card__info-caption-about-value">Алюминий</li>
+            </ul>
+            <div class="card__info-price-wrapper">
+              <p class="card__info-price">3&nbsp;940&nbsp;₽</p>
+              <p class="card__info-old-price">1&nbsp;970&nbsp;₽</p>
+            </div>
+            <button class="card__info-to-cart-button button">В КОРЗИНУ</button>
+          </div>
+        </div>
+      </figure>
+    </section>
   </div>
 </body>
 </html>

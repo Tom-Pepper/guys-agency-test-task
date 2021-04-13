@@ -1,9 +1,7 @@
 .header__catalog-button {
   display: flex;
-  border-radius: 2px;
   border: none;
   background-color: #002051;
-  cursor: pointer;
   transition: opacity 0.1s ease-in-out 0.1s;
 
   margin: 0;

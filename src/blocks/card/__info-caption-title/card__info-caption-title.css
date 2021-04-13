@@ -1,0 +1,9 @@
+.card__info-caption-title {
+  margin: 0;
+  padding: 20px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  color: #002051;
+  min-height: 23px;
+}

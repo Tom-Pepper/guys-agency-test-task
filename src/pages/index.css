@@ -2,6 +2,7 @@
 
 @import url(../blocks/page/page.css);
 @import url(../fonts/fonts.css);
+@import url(../blocks/button/button.css);
 
 /* Header styles */
 @import url(../blocks/header/header.css);
@@ -28,12 +29,23 @@
 @import url(../blocks/breadcrumbs/__crump/breadcrumbs__crumb.css);
 @import url(../blocks/breadcrumbs/__crump/_current/breadcrumbs__crumb_current.css);
 
-
-
-
-
-
-
-
+/* Card styles */
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__subtitle/card__subtitle.css);
+@import url(../blocks/card/__info/card__info.css);
+@import url(../blocks/card/__image/card__image.css);
+@import url(../blocks/card/__info-caption/card__info-caption.css);
+@import url(../blocks/card/__info-caption-title/card__info-caption-title.css);
+@import url(../blocks/card/__info-caption-button/card__info-caption-button.css);
+@import url(../blocks/card/__info-caption-button/_is-active/card__info-caption-button_is-active.css);
+@import url(../blocks/card/__info-caption-about/card__info-caption-about.css);
+@import url(../blocks/card/__info-caption-about-characteristics/card__info-caption-about-characteristics.css);
+@import url(../blocks/card/__info-caption-about-value/card__info-caption-about-value.css);
+@import url(../blocks/card/__info-price-wrapper/card__info-price-wrapper.css);
+@import url(../blocks/card/__info-price/card__info-price.css);
+@import url(../blocks/card/__info-old-price/card__info-old-price.css);
+@import url(../blocks/card/__info-to-cart-button/card__info-to-cart-button.css);
 
 

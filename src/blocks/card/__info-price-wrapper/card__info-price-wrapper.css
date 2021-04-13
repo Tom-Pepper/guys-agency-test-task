@@ -1,0 +1,8 @@
+.card__info-price-wrapper {
+  margin: 0;
+  padding: 0 20px 40px;
+  width: 199px;
+  height: 40px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}

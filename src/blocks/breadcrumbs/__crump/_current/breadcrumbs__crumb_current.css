@@ -1,3 +1,9 @@
 .breadcrumbs__crumb_current {
  color: #99A6B9;
+  cursor: default;
+}
+
+.breadcrumbs__crumb_current:hover {
+  opacity: 1;
+  color: #99A6B9;
 }
