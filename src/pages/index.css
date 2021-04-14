@@ -68,3 +68,28 @@
 @import url(../blocks/footer/__input-label/footer__input-label.css);
 @import url(../blocks/footer/__input-name-label/footer__input-name-label.css);
 @import url(../blocks/footer/__input-contact-label/footer__input-contact-label.css);
+
+/* Popup styles */
+@import url(../blocks/popup/popup.css);
+@import url(../blocks/popup/__cart-popup/popup__cart-popup.css);
+@import url(../blocks/popup/_is-opened/popup_is-opened.css);
+@import url(../blocks/popup/__container/popup__container.css);
+@import url(../blocks/popup/__title/popup__title.css);
+@import url(../blocks/popup/__price/popup__price.css);
+@import url(../blocks/popup/__card/popup__card.css);
+@import url(../blocks/popup/__image/popup__image.css);
+@import url(../blocks/popup/__card-info/popup__card-info.css);
+@import url(../blocks/popup/__card-title/popup__card-title.css);
+@import url(../blocks/popup/__card-price/popup__card-price.css);
+@import url(../blocks/popup/__card-available/popup__card-available.css);
+@import url(../blocks/popup/__card-old-price/popup__card-old-price.css);
+@import url(../blocks/popup/__price-wrapper/popup__price-wrapper.css);
+@import url(../blocks/popup/__cart-manage/popup__cart-manage.css);
+@import url(../blocks/popup/__cart-remove-object-button/popup__cart-remove-object-button.css);
+@import url(../blocks/popup/__cart-quantity-manage/popup__cart-quantity-manage.css);
+@import url(../blocks/popup/__cart-plus-button/popup__cart-plus-button.css);
+@import url(../blocks/popup/__cart-item-quantity/popup__cart-item-quantity.css);
+@import url(../blocks/popup/__cart-minus-button/popup__cart-minus-button.css);
+@import url(../blocks/popup/__divider/popup__divider.css);
+@import url(../blocks/popup/__cart-button/popup__cart-button.css);
+

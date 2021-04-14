@@ -1,0 +1,18 @@
+.popup__cart-button {
+  margin: 20px 0;
+  width: 100%;
+  color: #FFFFFF;
+  background-color: #E83850;
+
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  cursor: pointer;
+
+  transition: opacity 0.1s ease-in-out 0.1s;
+}
+
+.popup__cart-button:hover {
+  opacity: 0.7;
+}

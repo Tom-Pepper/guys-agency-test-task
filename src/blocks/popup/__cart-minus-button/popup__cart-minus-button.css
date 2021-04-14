@@ -1,0 +1,14 @@
+.popup__cart-minus-button {
+  background: url("../../../images/minus-button.svg") no-repeat transparent center;
+  outline: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  height: 13px;
+  width: 13px;
+  margin-right: 15px;
+
+  display: flex;
+  justify-self: center;
+  align-self: center;
+}

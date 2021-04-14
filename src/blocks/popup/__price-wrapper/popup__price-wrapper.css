@@ -1,0 +1,5 @@
+.popup__price-wrapper {
+  display: grid;
+  width: 97px;
+  grid-template-columns: repeat(2, 1fr);
+}

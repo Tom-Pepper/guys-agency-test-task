@@ -1,0 +1,5 @@
+.popup__cart-quantity-manage {
+  border: 1px solid #002051;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}

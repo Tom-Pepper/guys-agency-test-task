@@ -1,0 +1,9 @@
+.popup__card-available {
+  margin: 0;
+  padding-top: 10px;
+  height: 20px;
+  color: #002051;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+}

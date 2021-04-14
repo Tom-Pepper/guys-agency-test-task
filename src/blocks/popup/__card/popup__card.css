@@ -1,0 +1,11 @@
+.popup__card {
+  width: 555px;
+  height: 100px;
+
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.popup__card:last-of-type {
+  padding-top: 10px;
+}

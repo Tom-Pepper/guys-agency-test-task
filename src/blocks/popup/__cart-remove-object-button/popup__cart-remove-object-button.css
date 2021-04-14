@@ -1,0 +1,16 @@
+.popup__cart-remove-object-button {
+  background: url("../../../images/trash-bin.svg") no-repeat transparent center;
+  outline: none;
+  width: 30px;
+  height: 30px;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+
+  display: flex;
+  justify-self: self-end;
+}
+
+.popup__cart-remove-object-button:hover {
+  opacity: 0.7;
+}
