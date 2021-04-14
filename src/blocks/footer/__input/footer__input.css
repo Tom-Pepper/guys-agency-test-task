@@ -1,0 +1,24 @@
+.footer__input {
+  outline: none;
+  width: 396px;
+  height: 50px;
+  margin-right: 28px;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #99A6B9;
+  color: #FFFFFF;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.footer__input::placeholder {
+  color: #99A6B9;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.footer__input:last-of-type {
+  margin-right: 0;
+}

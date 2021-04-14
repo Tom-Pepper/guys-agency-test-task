@@ -1,0 +1,10 @@
+.footer__input-contact-label {
+  left: 425px;
+  bottom: 5px;
+}
+
+.footer__input-contact:focus~.footer__input-contact-label,
+.footer__input-contact:not(:focus):valid~.footer__input-contact-label {
+  top: -5px;
+  font-size: 10px;
+}

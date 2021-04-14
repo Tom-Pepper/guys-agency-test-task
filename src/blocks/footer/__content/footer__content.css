@@ -1,0 +1,10 @@
+.footer__content {
+  margin: 0;
+  padding: 87px 419px 88px 201px;
+  width: 820px;
+  height: 283px;
+  color: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}

@@ -1,0 +1,10 @@
+.footer__input-label {
+  position: absolute;
+  pointer-events: none;
+  white-space: nowrap;
+  overflow: hidden;
+  line-height: 19px;
+  transition: 0.4s linear;
+  color: #99A6B9;
+  font-weight: 500;
+}

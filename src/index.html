@@ -121,6 +121,24 @@
         </figcaption>
       </figure>
     </section>
+    <footer class="footer">
+      <div class="footer__content">
+        <h2 class="footer__title">Консультация</h2>
+        <p class="footer__caption">Заполните форму ниже и наш мастер</p>
+        <p class="footer__caption">свяжется с вами, чтобы ответить на ваши вопросы</p>
+        <form name="footer-form" method="post" class="footer__form">
+          <div class="footer__input-wrapper">
+            <input required name="input-name" type="text" class="input footer__input footer__input-name"
+                   minlength="1" maxlength="30">
+            <label class="footer__input-label footer__input-name-label">Имя</label>
+            <input required name="input-contact" type="text" class="input footer__input footer__input-contact"
+                   minlength="1" maxlength="200">
+            <label class="footer__input-label footer__input-contact-label">Телефон или e-mail</label>
+          </div>
+          <button type="submit" class="button footer__button">Получить консультацию</button>
+        </form>
+      </div>
+    </footer>
   </div>
 </body>
 </html>

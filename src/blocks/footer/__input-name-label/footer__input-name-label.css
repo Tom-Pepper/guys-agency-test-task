@@ -1,0 +1,10 @@
+.footer__input-name-label {
+  left: 1px;
+  bottom: 5px;
+}
+
+.footer__input-name:focus~.footer__input-name-label,
+.footer__input-name:not(:focus):valid~.footer__input-name-label {
+  top: -5px;
+  font-size: 10px;
+}

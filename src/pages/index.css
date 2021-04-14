@@ -56,6 +56,15 @@
 @import url(../blocks/card/__info-caption-link/card__info-caption-link.css);
 @import url(../blocks/card/__characteristics-block-usage/card__characteristics-block-usage.css);
 
-
-
-
+/* Footer styles */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__form/footer__form.css);
+@import url(../blocks/footer/__title/footer__title.css);
+@import url(../blocks/footer/__caption/footer__caption.css);
+@import url(../blocks/footer/__content/footer__content.css);
+@import url(../blocks/footer/__button/footer__button.css);
+@import url(../blocks/footer/__input-wrapper/footer__input-wrapper.css);
+@import url(../blocks/footer/__input/footer__input.css);
+@import url(../blocks/footer/__input-label/footer__input-label.css);
+@import url(../blocks/footer/__input-name-label/footer__input-name-label.css);
+@import url(../blocks/footer/__input-contact-label/footer__input-contact-label.css);
