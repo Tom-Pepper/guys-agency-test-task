@@ -47,5 +47,11 @@
 @import url(../blocks/card/__info-price/card__info-price.css);
 @import url(../blocks/card/__info-old-price/card__info-old-price.css);
 @import url(../blocks/card/__info-to-cart-button/card__info-to-cart-button.css);
+@import url(../blocks/card/__characteristics/card__characteristics.css);
+@import url(../blocks/card/__characteristics-subtitle/card__characteristics-subtitle.css);
+@import url(../blocks/card/__characteristics-block/card__characteristics-block.css);
+@import url(../blocks/card/__characteristics-block-wrapper/card__characteristics-block-wrapper.css);
+@import url(../blocks/card/__usage/card__usage.css);
+
 
 
