@@ -1,0 +1,14 @@
+.card__info-caption-link {
+  list-style: none;
+  color: #002051;
+  padding-right: 10px;
+  font-weight: 400;
+}
+
+.card__info-caption-link:last-child {
+  padding-right: 0;
+}
+
+.card__info-caption-link:hover {
+  color: #0AAEDD;
+}

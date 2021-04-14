@@ -1,0 +1,6 @@
+.card__info-caption-links {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  margin: 0;
+}

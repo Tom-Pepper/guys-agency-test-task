@@ -52,6 +52,10 @@
 @import url(../blocks/card/__characteristics-block/card__characteristics-block.css);
 @import url(../blocks/card/__characteristics-block-wrapper/card__characteristics-block-wrapper.css);
 @import url(../blocks/card/__usage/card__usage.css);
+@import url(../blocks/card/__info-caption-links/card__info-caption-links.css);
+@import url(../blocks/card/__info-caption-link/card__info-caption-link.css);
+@import url(../blocks/card/__characteristics-block-usage/card__characteristics-block-usage.css);
+
 
 
 

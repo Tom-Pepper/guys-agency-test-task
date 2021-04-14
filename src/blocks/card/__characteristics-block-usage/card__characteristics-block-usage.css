@@ -1,0 +1,12 @@
+.card__characteristics-block-usage {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(2, 213px);
+  grid-template-rows: repeat(2, 23px);
+  grid-gap: 44px;
+  grid-row-gap: 10px;
+  margin: 0;
+  padding: 22px 0 0 0;
+  height: 56px;
+  width: 440px;
+}
